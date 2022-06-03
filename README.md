@@ -26,7 +26,7 @@ This repository contains example application which shows how to use fNIRS with V
 - [References](#references)
 
 ## Introduction
-Vizard software allows easy debugging and fast VR development. It has a lot of basic tools, such as VR environments, 3D objects and quite a sophisticated physics engine. In this tutorial, I will show you how to create your experiment. As an example, I will describe my experiment step by step. The complete experiment script, as well as intermediate versions of the script, are available in the repository under the following URL: https://github.com/mtokovarov/nirs_vr_worldviz.
+Vizard software allows easy debugging and fast VR development. It has a lot of basic tools, such as VR environments, 3D objects and quite a sophisticated physics engine. In this tutorial, I will show you how to create your experiment. As an example, I will describe my experiment step by step.
 
 ## Installing the environment
 First, you need to install the environment. It can be downloaded under the following link: https://264tz51r.paperform.co/. Basic personal and contact data have to be provided. The download link will be sent to the specified email address upon submitting the required data. The installation process is pretty straight forward: in order to install the software, the downloaded file has to be run, a routine installation process has to be performed. After installing the environment you can configure your VR set and create a basic scene.
